@@ -25,7 +25,7 @@ int main()
 {
 	try
 	{
-		OSImGui::OSImGui::get().AttachAnotherWindow("ShootHouse", "", Draw);
+		OSImGui::OSImGui::get().AttachAnotherWindow("Counter-Strike 2", "", Draw);
 	}
 	catch (OSImGui::OSException& e)
 	{
