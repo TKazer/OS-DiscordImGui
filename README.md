@@ -8,6 +8,12 @@ Using map to hijack the Discord overlay.
 
 It need to run after discord covers the game window.
 
+The project is not completed and is under development.
+
+Next step: 
+* Fix current bugs.
+* Add mouse event response.
+
 ## Src
 
 Developing based on [OS-ImGui](https://github.com/TKazer/OS-ImGui)
